@@ -393,6 +393,11 @@
       "packageName": "mikro-orm",
       "projectFolder": "backend/mikro-orm",
       "reviewCategory": "backend"
+    },
+    {
+      "packageName": "todo-svelte-user",
+      "projectFolder": "frontend/todo-svelte-user",
+      "reviewCategory": "frontend"
     }
     // {
     //   /**
