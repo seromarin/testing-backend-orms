@@ -50,6 +50,9 @@
     "tsconfig-paths": "^3.10.1",
     "typescript": "^4.3.5"
   },
+  "peerDependencies": {
+    "webpack": "^5.0.0"
+  },
   "jest": {
     "moduleFileExtensions": [
       "js",
