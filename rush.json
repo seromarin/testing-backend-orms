@@ -391,7 +391,8 @@
   "projects": [
     {
       "packageName": "mikro-orm",
-      "projectFolder": "backend/mikro-orm"
+      "projectFolder": "backend/mikro-orm",
+      "reviewCategory": "backend"
     }
     // {
     //   /**
