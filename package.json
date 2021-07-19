@@ -1,5 +1,6 @@
 {
     "scripts": {
-        "mikro:start:dev": "cd ./backend/mikro-orm && rushx start:dev"
+        "mikro:start:dev": "cd ./backend/mikro-orm && rushx start:dev",
+        "mikro:start-db": "cd ./backend/mikro-orm && docker-compose up -d"
     }
 }
