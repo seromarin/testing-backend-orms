@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "mikro:start:dev": "cd ./backend/mikro-orm && rushx start:dev"
+    }
+}
